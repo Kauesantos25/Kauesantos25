@@ -169,6 +169,4 @@ System Ready...
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=00F5FF"/>
-
 </div>
