@@ -135,7 +135,7 @@ System Ready...
 
 <div align="center">
 
-<a href="https://linkedin.com/in/](https://www.linkedin.com/in/kaue-santos-7a8a67398/">
+<a href="https://www.linkedin.com/in/kaue-santos-7a8a67398/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
