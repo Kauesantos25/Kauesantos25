@@ -8,9 +8,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%3E+Booting+Artificial+Intelligence...;%3E+Authenticating+Developer...;%3E+Access+Granted+%E2%9C%94;%3E+Welcome+to+my+GitHub+Profile"/>
 
+
 </div>
 
 ---
+
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello, World!
 
@@ -18,12 +20,12 @@
 ┌─────────────────────────────────────────────────────────────┐
 │ AI SYSTEM STATUS                                            │
 ├─────────────────────────────────────────────────────────────┤
-│ USER.............: SEU NOME                                │
-│ ROLE.............: Software Engineering Student            │
-│ STATUS...........: ONLINE                                  │
-│ LOCATION.........: Brazil                                  │
-│ MODE.............: BUILD • LEARN • CREATE                  │
-│ VERSION..........: v2.0                                    │
+│ USER.............: Kaue dos Santos                          |
+│ ROLE.............: Software Engineering Student             │
+│ STATUS...........: ONLINE                                   │
+│ LOCATION.........: Brazil                                   │
+│ MODE.............: BUILD • LEARN • CREATE                   │
+│ VERSION..........: v2.0                                     │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -44,8 +46,6 @@ Atualmente estou focado em evoluir como desenvolvedor Full Stack e construir pro
 - Python
 - Java
 - SQL
-- Power BI
-- Cloud Computing
 - Redes
 - Engenharia de Software
 
@@ -55,7 +55,7 @@ Atualmente estou focado em evoluir como desenvolvedor Full Stack e construir pro
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,git,github,vscode,linux,aws,azure"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,git,github,vscode"/>
 
 </div>
 
@@ -65,7 +65,7 @@ Atualmente estou focado em evoluir como desenvolvedor Full Stack e construir pro
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,figma,notion,github,git,windows"/>
+<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,figma,github,git,windows"/>
 
 </div>
 
@@ -133,101 +133,27 @@ System Ready...
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&margin-w=15&margin-h=15&no-frame=true&column=4"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 # 🌐 Connect with Me
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SEU_LINK">
+<a href="https://linkedin.com/in/](https://www.linkedin.com/in/kaue-santos-7a8a67398/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/SEU_LINK">
+<a href="https://www.instagram.com/_kauesb_/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL">
+<a href="mailto:kauesantoss2026@gmail.com">
 <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/Kauesantos25">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
-
----
-
-# ⚙ System Status
-
-```text
-AI CORE             ████████████████████ 100%
-
-Python              ████████████████░░░░
-
-Java                ████████████░░░░░░░░
-
-SQL                 ███████████████░░░░░
-
-Cloud               ██████████░░░░░░░░░░
-
-Problem Solving     █████████████████░░░
-
-Creativity          ████████████████████
-
-Coffee              ████████████████████
-```
 
 ---
 
